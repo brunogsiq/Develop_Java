@@ -1,10 +1,18 @@
+//Primeira linhda de código:
+public class exemplo
+{
+	public static void main(String args[])
+	{
+		System.out.println("Ola mundo !!!");
+	}
+}
+
+//Segundas linhas de código:
 public class Comentarios{
 	// Metódo principal do programa
 	public static void main(String args[])	{
 
-		/* variaveis para guardas os valores
-		dos operandos e do resultado
-		da operação */
+		//* variaveis para guardas os valores dos operandos e do resultado da operação
 
 		int num1 = 4;
 		int num2 = 4;
