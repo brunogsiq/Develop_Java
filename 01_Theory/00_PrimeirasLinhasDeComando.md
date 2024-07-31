@@ -63,4 +63,11 @@ public class Comentarios
 		//System.out.println("O resultado dois é: " + resultado);
 	}
 }
+
+## Teoria
+
+- Package = Agrupamento lópgico de classes relacioacionadas.
+- Modulo = Agrupamento lógico de pacotes relacionados.
+- Runtime = Agrupamento fisíco.
+- Aplicação = Agrupamento de módulos relacionados.
 ```

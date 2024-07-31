@@ -15,16 +15,15 @@ public class _06_Operacoes_Aritmeticas{
 		resultado4 = num1 / num2;
 		resultado5 = num1 % num2;
 
-		System.out.println(resultado1);
-		System.out.println(resultado2);
-		System.out.println(resultado3);
-		System.out.println(resultado4);
-		System.out.println(resultado5);
-		//Também pode ser feito da seguinte forma
 		System.out.println(num1 + num2);
+		System.out.println(resultado1);
 		System.out.println(num1 - num2);
+		System.out.println(resultado2);
 		System.out.println(num1 * num2);
+		System.out.println(resultado3);
 		System.out.println(num1 / num2);
+		System.out.println(resultado4);
 		System.out.println(num1 % num2);
+		System.out.println(resultado5);
 	}
 }

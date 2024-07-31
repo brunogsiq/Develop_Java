@@ -1,3 +1,5 @@
+import java.util.Locale;
+
 public class Variaveis {
 	public static void main(String args[])
 	{		
@@ -43,6 +45,13 @@ public class Variaveis {
 		double num = numero_6;
 		System.out.println("Incrementando um variável a outra: num = numero_6");
 		System.out.println(num);
+
+		double tipoDoubleTwo = 1.091910;
+		//Caso minha linguagem esteja em Pt-Br, as impressões abaixo serão com ','
+		System.out.println("%.2f%n", tipoDouble);
+		System.out.println("%.4f%n", tipoDouble);
+		//Para realizar a impressão utilizando '.', utilizaremos o comando abaixo:
+		Locale.setDefault(Locale.US);
 		
 		char tipoChar = 'G';
 		System.out.println(tipoChar);
