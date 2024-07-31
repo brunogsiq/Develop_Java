@@ -16,6 +16,12 @@
                     //código, instrução...
                 }
             }
+
+    Criando uma classe no projeto:
+            Após projeto criado, src > New > Class
+                Package ficará em branco
+                Nome da classe: Main
+                Marque como public static void (String[] arg)
  */
 
 //pública, para ser acessada por outras instâncias
