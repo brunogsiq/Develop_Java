@@ -38,3 +38,14 @@ public class Main
         System.out.println("Olá Mundo");
     }
 }
+
+/*
+    Uma classe poderá conter:
+
+        Atributos:
+            São os dados que devem ser  armazenadas sobre cada objeto que está sendo modelado. 
+        Métodos:
+            São as ações oferecidas pela classe, que podem ser utilizadas sobre qualquer objeto que está sendo modelado. Os métodos equivalem aos procedimentos ou funções na programação estruturada. 
+*/
+
+*/
