@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-    <libraryInfo home="C:\Program Files\Java\zulu21.32.17-ca-jdk21.0.2-win_x64" version="21.0.2"/>
-    <libraryInfo home="C:\Users\bruno\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre" version="17.0.9"/>
-    <libraryInfo home="C:\Users\bruno\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858" version="17.0.9"/>
+    <libraryInfo home="C:\Program Files\Eclipse Adoptium\jdk-21.0.5.11-hotspot" version="21.0.5"/>
 </libraryInfos>

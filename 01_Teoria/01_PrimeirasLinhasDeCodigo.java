@@ -3,6 +3,7 @@ public class exemplo
 {
 	public static void main(String args[])
 	{
+		//
 		System.out.println("Ola mundo !!!");
 	}
 }
@@ -27,4 +28,4 @@ public class Comentarios{
 		//resultado = (num1 + num2) / 2;
 		//System.out.println("O resultado dois é: " + resultado);
 	}
-}
+};
