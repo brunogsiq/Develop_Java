@@ -1,12 +1,3 @@
-//Primeira linhda de código:
-public class exemplo
-{
-	public static void main(String args[])
-	{
-		//
-		System.out.println("Ola mundo !!!");
-	}
-}
 
 //Segundas linhas de código:
 public class Comentarios{
