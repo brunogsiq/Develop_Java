@@ -18,3 +18,6 @@ Saiba como utilizar Java Enterprise Edition (Java EE) para desenvolvimento web. 
 Descubra as bibliotecas e APIs Java que podem impulsionar o desenvolvimento de software. Desde o Java Standard Edition (SE) até bibliotecas como Apache Commons, explore recursos que podem economizar tempo e esforço.
 
 Explore o vasto ecossistema Java, onde a robustez encontra a elegância. Happy coding! 🚀
+
+
+Mensagem teste - Deverá ser apagada após documentação completa
