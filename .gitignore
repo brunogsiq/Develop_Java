@@ -1,1 +1,5 @@
 /.metadata/
+
+# Generated Java build outputs
+/OrientaçãoObjetos/bin/
+/01_Curso_JavaPOO/out/
